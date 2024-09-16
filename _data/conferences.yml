@@ -1,3 +1,18 @@
+- title: ICAPS
+  year: 2025
+  id: icaps25
+  link: https://icaps25.icaps-conference.org/
+  deadline: '2024-11-01 23:59:59'
+  abstract_deadline: '2024-10-25 23:59:59'
+  timezone: UTC-12
+  place: Melbourne, Australia
+  date: November 09-14, 2025
+  start: 2025-11-09
+  end: 2025-11-14
+  hindex: 32
+  sub: AP
+  note: Mandatory abstract deadline on October 25, 2024. More info <a href='https://icaps25.icaps-conference.org/'>here</a>.
+
 - title: AISTATS
   year: 2025
   id: aistats25
