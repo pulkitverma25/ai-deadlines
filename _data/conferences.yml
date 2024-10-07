@@ -1,3 +1,18 @@
+- title: RSS
+  year: 2025
+  id: rss25
+  link: https://roboticsconference.org/2025
+  deadline: '2025-01-24 23:59:59'
+  abstract_deadline: '2025-01-17 23:59:59'
+  timezone: UTC-12
+  place: Los Angeles, CA, USA
+  date: June 21-25, 2025
+  start: 2025-06-21
+  end: 2025-06-25
+  hindex: 66
+  sub: RO
+  note: Optional supplementary material deadline on January 31, 2025. More info <a href='https://roboticsconference.org/2025'>here</a>.
+
 - title: ICAPS
   year: 2025
   id: icaps25
