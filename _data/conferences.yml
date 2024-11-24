@@ -1,3 +1,16 @@
+- title: RLC
+  year: 2025
+  id: rlc25
+  link: https://rl-conference.cc/
+  deadline: '2025-02-21 23:59:59'
+  abstract_deadline: '2025-02-14 23:59:59'
+  timezone: UTC-12
+  place: Edmonton, AB, Canada
+  date: August 05-08, 2025
+  start: 2025-08-05
+  end: 2025-08-08
+  sub: ML
+
 - title: InterSpeech
   year: 2025
   id: interspeech25
@@ -584,7 +597,7 @@
 - title: RLC
   year: 2024
   id: rlc24
-  link: https://rl-conference.cc/
+  link: http://rl-conference.cc/2024/
   deadline: '2024-03-08 23:59:59'
   abstract_deadline: '2024-03-01 23:59:59'
   timezone: UTC-12
