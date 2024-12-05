@@ -1,3 +1,16 @@
+- title: CoRL
+  year: 2025
+  id: corl25
+  link: https://corl.org
+  deadline: '2025-04-28 23:59:00'
+  timezone: UTC-12
+  place: Seoul, South Korea
+  date: September 27-30, 2025
+  start: 2025-09-27
+  end: 2025-09-30
+  sub: RO
+  note: Optional supplementary deadline on May 05, 2025. More info <a href='https://corl.org'>here</a>.
+
 - title: UAI
   year: 2025
   id: uai25
@@ -488,7 +501,7 @@
 - title: CoRL
   year: 2024
   id: corl24
-  link: https://corl.org
+  link: https://2024.corl.org
   deadline: '2024-06-06 23:59:00'
   timezone: UTC-12
   place: Munich, Germany
